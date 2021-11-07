@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/vw27n4lxesqavycx/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-11-1-rxjs-poling-frontend/branch/master)
 
-#### Deployment: <a href="">Github Pages</a>
+#### Deployment: <a href="https://sergius92739.github.io/ahj-11.1-rxjs_poling_frontend/">Github Pages</a>
 #### Backend: <a href="https://github.com/Sergius92739/ahj-11.1-rxjs_poling_backend">Repository</a>
 #### Server: <a href="https://ahj-11-1-rxjs-poling-sergius.herokuapp.com/">Heroku</a>
 
