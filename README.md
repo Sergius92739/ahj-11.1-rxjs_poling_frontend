@@ -2,7 +2,7 @@
 
 #### Deployment: <a href="https://sergius92739.github.io/ahj-11.1-rxjs_poling_frontend/">Github Pages</a>
 #### Backend: <a href="https://github.com/Sergius92739/ahj-11.1-rxjs_poling_backend">Repository</a>
-#### Server: <a href="https://ahj-11-1-rxjs-poling-sergius.herokuapp.com/">Heroku</a>
+#### Server: <a href="https://ahj-11-1-rxjs-poling-backend.onrender.com">Render</a>
 
 ---
 
